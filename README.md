@@ -15,6 +15,12 @@ Also this repositorie started out like a project for learning Github. Please don
 
 **Rajshahi University of Engineering & Technology (RUET)**
 
+### Contact: 
+
+***Email:*** nhtofa@gmail.com
+
+***LinkedIn:*** https://www.linkedin.com/in/nahid-hasan-43a112b7/
+
 ***Programmer, Graphics Designer, Game Developer, Tech Enthusiast***
 
 > ***If you need creative solutions through technology, then my skills can***
