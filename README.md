@@ -7,15 +7,23 @@ I'm like `Jack of all trades but master of none`.
 Also this repositorie started out like a project for learning Github. Please don't misunderstood it for showing my skill. 
 ***
 
-Nahid Hasan 
-B.Sc. in Mechanical Engineer (2014 - 2019)
-Rajshahi University of Engineering & Technology (RUET)
+## About me
+
+**Nahid Hasan**
+
+**B.Sc. in Mechanical Engineer (2014 - 2019)**
+
+**Rajshahi University of Engineering & Technology (RUET)**
 
 ***Programmer, Graphics Designer, Game Developer, Tech Enthusiast***
 
 > ***If you need creative solutions through technology, then my skills can***
 > ***help you reach your goal.***
-> 
+
+At present, I am purchasing my B.Sc. on Mechanical Engineer as a 4<sup>th</sup> year student. Though I am a student of Mechanical Engineer, my passion was always on computer technology. Since 2012, I have been trying hard to develop myself as a tech developer. As a result, I've learned and developed various interest over fields like AI (Machine Learning, Autonomous Technology), Virtual Reality (VR, AR, XR etc), 2D & 3D game, Graphics Designing, Internet of things(IOT) etc. I hope to combine these skills in solving various problems of our times through technology.      
+
+
+
 ## My Journey
 
 
