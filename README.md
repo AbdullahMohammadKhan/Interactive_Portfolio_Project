@@ -4,7 +4,7 @@
 ## Disclaimer :
 
 I'm like `Jack of all trades but master of none`.
-Also this repositorie started out like a project for learning Github. Please don't misunderstood it for showing my skill. 
+Also this repositorie started out like a project for learning Github. Please don't misunderstand it for showing my skill. 
 ***
 
 ## About me
